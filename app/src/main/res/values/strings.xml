@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExoPlayer/VideoPlayer</string>
+    <string name="action_settings">Settings</string>
+    <string name="four">Four</string>
+    <string name="three">Three</string>
+    <string name="two">Two</string>
+    <string name="one">One</string>
+</resources>
