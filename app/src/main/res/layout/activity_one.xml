@@ -7,8 +7,8 @@
     tools:context="com.robillo.exoplayervideoplayer.OneActivity">
 
     <com.google.android.exoplayer2.ui.SimpleExoPlayerView
-        android:id="@+id/video_view"
         android:layout_width="match_parent"
-        android:layout_height="200sp"/>
+        android:layout_height="200sp"
+        android:id="@+id/exo"/>
 
 </android.support.design.widget.CoordinatorLayout>
