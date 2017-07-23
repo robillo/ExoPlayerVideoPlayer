@@ -37,7 +37,6 @@ public class OneActivity extends AppCompatActivity {
         exoPlayerView.setPlayer(player);
 
         player.setPlayWhenReady(true);
-        player.seekTo(1, 0);
 
         Uri uri = Uri.parse(getString(R.string.media_url_mp3));
         MediaSource mediaSource = buildMediaSource(uri);
@@ -49,4 +48,6 @@ public class OneActivity extends AppCompatActivity {
                 new DefaultHttpDataSourceFactory("ua"),
                 new DefaultExtractorsFactory(), null, null);
     }
+
+
 }

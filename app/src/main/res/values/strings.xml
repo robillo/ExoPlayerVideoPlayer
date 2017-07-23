@@ -5,5 +5,5 @@
     <string name="three">Three</string>
     <string name="two">Two</string>
     <string name="one">One</string>
-    <string name="media_url_mp3">https://player.vimeo.com/external/123504120.hd.mp4?s=e0b105119309f2c24512ff4a0481def150dad2a4&amp;profile_id=113&amp;oauth2_token_id=57447761</string>
+    <string name="media_url_mp3">http://www.sample-videos.com/video/mp4/480/big_buck_bunny_480p_2mb.mp4</string>
 </resources>
